@@ -8,10 +8,10 @@ Ela dava uma palavra de 5 letras e a gente precisava formar novas palavras a par
   1. Se você conseguisse formar uma nova palavra trocando apenas uma letra, você ganharia 2 pontos.
   2. Se trocasse duas, recebia apenas um ponto.
 2. Você deve formar uma nova palavra dentro de 30s.
-3- Você não pode jogar uma palavra que já foi dita.
-4- Se você cometesse algum desses erros, você acumularia um erro e passaria a sua vez, exceto se não conseguisse formar uma palavra dentro de 30s, pois seria eliminado do jogo.
-5- O limite de erros era definido no início do jogo e aquele que alcançasse esse limite era eliminado.
-6- O vencedor era o último jogador restante.
+3. Você não pode jogar uma palavra que já foi dita.
+4. Se você cometesse algum desses erros, você acumularia um erro e passaria a sua vez, exceto se não conseguisse formar uma palavra dentro de 30s, pois seria eliminado do jogo.
+5. O limite de erros era definido no início do jogo e aquele que alcançasse esse limite era eliminado.
+6. O vencedor era o último jogador restante.
 
 Trazendo isso para uma linguagem de programação, enfrentamos alguns desafios além do cumprimento dessas regras.
 O arquivo files\run.ps1 será a referência das "linhas".
